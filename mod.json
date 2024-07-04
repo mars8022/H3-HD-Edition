@@ -1,0 +1,43 @@
+{
+	"caption": {
+		"Cn_Simp": "",
+		"en_US": "HD Edition (ENG-RU)",
+		"ru_RU": "HD Edition (ENG-RU)"
+	},
+	
+	"description": {
+		"full": {
+			"Cn_Simp": "",
+			"en_US": "description.txt",
+			"ru_RU": "description_rus.txt"
+		},
+		"short": {
+			"Cn_Simp": "",
+			"en_US": "",
+			"ru_RU": ""
+		}
+	},
+	
+	"author": "Berserker, Suft",
+	
+	"homepage": "http://wforum.heroes35.net/showthread.php?tid=5821",
+	
+	"icon": {
+		"file": "icon.ico",
+		"index": 0
+	},
+	
+	"mod_version": "0.6.6",
+	
+	"priority": 10,
+	
+	"compatibility": {
+		"class": "all",
+		"entries": {}
+	},
+	
+	"platform": "era",
+	"info_version": "3.3.x",
+	"plugins": {},
+	"category": "graphics"
+}
