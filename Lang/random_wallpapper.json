@@ -1,0 +1,28 @@
+{
+	"era": {
+		"acredit_pos": {
+			"x": "0",
+			"y": "0"
+		},
+	},
+	"nmmi": {
+		"menu_info": {
+			"main": {
+				"enable": true,
+				"item_id": 666,
+				"x": 23,
+				"y": 23,
+				"pcx_name": "hmm3logo.pcx",
+				"always_draw": true
+			},
+			"select_scenario": {
+				"enable": true,
+				"item_id": 666,
+				"x": 23,
+				"y": 23,
+				"pcx_name": "hmm3log.pcx",
+				"always_draw": false
+			}
+		}
+	}
+}
