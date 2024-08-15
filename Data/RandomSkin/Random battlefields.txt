@@ -164,6 +164,8 @@ BkGr20_2.pcx
 BkGr20_2_m.pcx
 BkGr20_3.pcx
 BkGr20_3_m.pcx
+BkGr20_4.pcx
+BkGr20_4_m.pcx
 *
 BkGr21.pcx
 BkGr21_m.pcx
@@ -187,6 +189,8 @@ BkGr23_1.pcx
 BkGr23_1_m.pcx
 BkGr23_2.pcx
 BkGr23_2_m.pcx
+BkGr23_3.pcx
+BkGr23_3_m.pcx
 *
 BkGr30.pcx
 BkGr30_m.pcx
