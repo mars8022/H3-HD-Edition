@@ -357,6 +357,8 @@ BkGr62_3.pcx
 BkGr62_3_m.pcx
 BkGr62_4.pcx
 BkGr62_4_m.pcx
+BkGr62_5.pcx
+BkGr62_5_m.pcx
 *
 BkGr63.pcx
 BkGr63_m.pcx
@@ -367,6 +369,8 @@ BkGr65.pcx
 BkGr65_m.pcx
 BkGr65_1.pcx
 BkGr65_1_m.pcx
+BkGr65_2.pcx
+BkGr65_2_m.pcx
 *
 BkGr70.pcx
 BkGr70_m.pcx
