@@ -243,6 +243,8 @@ BkGr33_4.pcx
 BkGr33_4_m.pcx
 BkGr33_5.pcx
 BkGr33_5_m.pcx
+BkGr33_6.pcx
+BkGr33_6_m.pcx
 *
 BkGr40.pcx
 BkGr40_m.pcx
